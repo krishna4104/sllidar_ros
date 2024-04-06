@@ -77,7 +77,7 @@ SLAMTEC LIDAR Tutorial: <https://github.com/robopeak/rplidar_ros/wiki>
     ```
 
     Note: Add permanent workspace environment variables.
-    It's convenientif the ROS2 environment variables are automatically added to your bash session every time a new shell is launched:
+    It's convenient if the ROS2 environment variables are automatically added to your bash session every time a new shell is launched:
 
     ```bash
     $echo "source <your_own_ros2_ws>/install/setup.bash" >> ~/.bashrc
@@ -96,7 +96,7 @@ SLAMTEC LIDAR Tutorial: <https://github.com/robopeak/rplidar_ros/wiki>
    But a better way is to create a udev rule:
 
    ```bash
-   cd src/rpldiar_ros/
+   cd src/slidar_ros/
    source scripts/create_udev_rules.sh
    ```
 
